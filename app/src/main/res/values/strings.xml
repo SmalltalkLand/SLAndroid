@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SLAndroid</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="softwareINSTALL">smalltalkLand.INSTALL</string>
+    <string name="StatusHTML"><![CDATA[<html><body></body></html>]]></string>
+</resources>
