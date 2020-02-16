@@ -1,0 +1,3 @@
+[submodule "app/src/main/res/raw/web/OLWebFull"]
+	path = app/src/main/res/raw/web/OLWebFull
+	url = https://github.com/SmalltalkLand/OLWebFull.git
